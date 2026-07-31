@@ -24,11 +24,11 @@ export default function PopupWelcome() {
 
       {/* Card */}
       <div
-        className="relative z-10 w-full max-w-sm overflow-hidden rounded-[24px] border border-neon-gold/40 bg-void-3 shadow-neon-gold animate-fade-up"
+        className="relative z-10 w-full max-w-sm overflow-hidden rounded-[24px] border border-cyan/30 bg-void-3 shadow-neon-cyan animate-fade-up"
         onClick={(e) => e.stopPropagation()}
       >
         {/* Top bar */}
-        <div className="h-1 w-full bg-gradient-to-r from-neon-gold via-neon-orange to-neon-gold" />
+        <div className="h-1 w-full bg-gradient-to-r from-cyan via-neon-purple to-cyan" />
 
         {/* Close */}
         <button
@@ -40,21 +40,20 @@ export default function PopupWelcome() {
 
         <div className="px-7 py-7">
           {/* Badge */}
-          <div className="mb-4 inline-flex items-center gap-2 rounded-full border border-neon-gold/40 bg-neon-gold/10 px-3 py-1">
-            <span className="h-1.5 w-1.5 rounded-full bg-neon-gold animate-pulse" />
-            <span className="text-[11px] font-bold uppercase tracking-widest text-neon-gold">
-              Promo Terbatas
+          <div className="mb-4 inline-flex items-center gap-2 rounded-full border border-cyan/30 bg-cyan/8 px-3 py-1">
+            <span className="h-1.5 w-1.5 rounded-full bg-cyan animate-pulse" />
+            <span className="text-[11px] font-bold uppercase tracking-widest text-cyan">
+              Halo, Orang Tua! 👋
             </span>
           </div>
 
           <h3 className="font-display text-[22px] font-bold text-white leading-snug">
-            Daftar sekarang, harga masih{" "}
-            <span className="gradient-text-gold">Rp650.000</span> 🎉
+            Temukan potensi asli anakmu lewat tes STIFIN Brain
           </h3>
 
           <p className="mt-3 text-[14px] text-slate-light leading-relaxed">
-            Harga promo bisa berubah sewaktu-waktu. Chat admin sekarang untuk amankan slot
-            konsultasi anakmu.
+            Cukup satu kali tes fingerprint, kamu bisa tahu cara belajar, minat, dan arah terbaik
+            untuk perkembangan anakmu. Chat admin untuk info lebih lanjut.
           </p>
 
           <div className="mt-5 flex flex-col gap-2.5">
@@ -65,7 +64,7 @@ export default function PopupWelcome() {
               onClick={() => setShow(false)}
               className="text-[13px] text-slate-mid hover:text-white transition-colors"
             >
-              Nanti dulu
+              Lihat dulu
             </button>
           </div>
         </div>

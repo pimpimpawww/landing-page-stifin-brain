@@ -43,10 +43,10 @@ export default function Hero() {
           <h1 className="font-display text-[40px] font-bold leading-[1.1] sm:text-[52px] lg:text-[64px] text-white drop-shadow-[0_2px_8px_rgba(0,0,0,0.8)]">
             Ojo Puteg,
             <span className="block mt-2 text-cyan drop-shadow-[0_0_20px_rgba(0,212,255,0.6)]">
-              Kenali Potensi
+              Kenali Potensi Anak
             </span>
-            <span className="block text-[0.65em] text-white font-medium italic mt-1 drop-shadow-[0_2px_6px_rgba(0,0,0,0.9)]">
-              bocahmu lewat sains sidik jari
+            <span className="block text-[0.55em] text-white font-medium italic mt-1 drop-shadow-[0_2px_6px_rgba(0,0,0,0.9)]">
+              sesuai dengan kecerdasan yang dimilikinya
             </span>
           </h1>
 

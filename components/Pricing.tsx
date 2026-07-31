@@ -67,7 +67,7 @@ export default function Pricing() {
                 </div>
                 <div className="flex items-end gap-2">
                   <span className="font-display text-[42px] font-bold gradient-text-gold leading-none">
-                    Rp650.000
+                    Rp550.000
                   </span>
                   <span className="text-[14px] text-slate-mid mb-1">/ anak</span>
                 </div>
@@ -84,7 +84,7 @@ export default function Pricing() {
                 </ul>
                 <div className="mt-7">
                   <WaButton
-                    href={waLink("Halo, saya ingin daftar Promo Tes STIFIN Brain Anak Rp650.000")}
+                    href={waLink("Halo, saya ingin daftar Promo Tes STIFIN Brain Anak Rp550.000")}
                     className="w-full justify-center"
                   >
                     Daftarkan Anak Sekarang
