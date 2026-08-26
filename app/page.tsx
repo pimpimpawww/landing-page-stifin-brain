@@ -6,6 +6,7 @@ import StifinExplainer from "@/components/StifinExplainer";
 import Benefits from "@/components/Benefits";
 import GoldenAge from "@/components/GoldenAge";
 import Process from "@/components/Process";
+import VideoSection from "@/components/VideoSection";
 import Pricing from "@/components/Pricing";
 import Testimonials from "@/components/Testimonials";
 import FAQ from "@/components/FAQ";
@@ -26,6 +27,7 @@ export default function Home() {
       <ScrollReveal delay={100}><Benefits /></ScrollReveal>
       <ScrollReveal delay={100}><GoldenAge /></ScrollReveal>
       <ScrollReveal delay={100}><Process /></ScrollReveal>
+      <ScrollReveal delay={100}><VideoSection /></ScrollReveal>
       <ScrollReveal delay={100}><Pricing /></ScrollReveal>
       <ScrollReveal delay={100}><Testimonials /></ScrollReveal>
       <ScrollReveal delay={100}><FAQ /></ScrollReveal>
