@@ -18,7 +18,7 @@ const jakarta = Plus_Jakarta_Sans({
 export const metadata: Metadata = {
   title: "STIFIN Brain – Semar Ojo Puteg | Konsultasi Minat & Bakat Anak",
   description:
-    "Ojo puteg, wes wayahe ngerti potensi bocahmu. Konsultasi minat dan bakat anak lewat tes fingerprint STIFIN Brain.",
+    "Ojo puteg, kenali potensi anak sesuai dengan kecerdasan yang dimilikinya. Konsultasi minat dan bakat anak lewat tes fingerprint STIFIN Brain.",
 };
 
 export default function RootLayout({

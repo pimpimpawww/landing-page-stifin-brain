@@ -18,8 +18,8 @@ export default function FinalCTA() {
           </div>
 
           <h2 className="mx-auto max-w-[26ch] font-display text-[28px] font-bold text-white sm:text-[34px] lg:text-[42px] leading-[1.15]">
-            Ojo puteg maneh, ayo kenali potensi bocahmu bareng{" "}
-            <span className="text-yellow-300">STIFIN Brain</span>
+            Ojo puteg, kenali potensi anak sesuai dengan{" "}
+            <span className="text-yellow-300">kecerdasan yang dimilikinya</span>
           </h2>
 
           <p className="mx-auto mt-4 max-w-[52ch] text-[16px] text-white/85">

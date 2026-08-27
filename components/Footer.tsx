@@ -25,7 +25,7 @@ export default function Footer() {
           WhatsApp Pendaftaran: <span className="text-cyan font-semibold">{WA_DISPLAY}</span>
         </p>
         <p className="text-[12px] text-slate-dim">
-          © 2026 STIFIN Brain – Semar Ojo Puteg. Ojo puteg, wes wayahe ngerti potensi bocahmu.
+          © 2026 STIFIN Brain – Semar Ojo Puteg. Ojo puteg, kenali potensi anak sesuai dengan kecerdasan yang dimilikinya.
         </p>
       </div>
     </footer>
