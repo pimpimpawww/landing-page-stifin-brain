@@ -28,7 +28,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="id" className={`${fraunces.variable} ${jakarta.variable}`}>
-      <body className="font-body text-slate-light antialiased bg-void">{children}</body>
+      <body className="font-body text-slate-light antialiased bg-white">{children}</body>
     </html>
   );
 }
