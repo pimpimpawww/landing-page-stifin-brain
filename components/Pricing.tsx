@@ -36,12 +36,12 @@ export default function Pricing() {
             <span className="text-[12px] font-bold uppercase tracking-[0.15em] text-cyan">Paket Layanan</span>
           </div>
           <h2 className="font-display text-[28px] font-bold text-slate-light sm:text-[34px] lg:text-[38px]">
-            Promo tes STIFIN Brain{" "}
-            <span className="gradient-text-gold">untuk anak</span>
+            Paket tes STIFIN Brain{" "}
+            <span className="gradient-text-cyan">untuk anak</span>
           </h2>
           <p className="mt-3.5 text-[16px] text-slate-mid">
-            Satu paket lengkap, satu harga — bukan sekadar tahu tipe, tapi dibantu paham harus
-            ngapain setelahnya.
+            Satu paket lengkap — bukan sekadar tahu tipe, tapi dibantu paham harus ngapain
+            setelahnya. Hubungi admin untuk info harga dan promo terkini.
           </p>
         </div>
 
@@ -50,18 +50,12 @@ export default function Pricing() {
           <div className="w-full max-w-md mx-auto lg:mx-0 lg:w-[390px] shrink-0">
             <div className="relative overflow-hidden rounded-[24px] border-2 border-[#1565C0] bg-white shadow-soft">
               <div className="relative bg-gradient-to-br from-[#1565C0] to-[#1976D2] px-8 pt-8 pb-6">
-                <div className="absolute top-4 right-4 rounded-full bg-yellow-400 px-3 py-1 text-[11px] font-bold text-blue-900 uppercase tracking-wider">
-                  Promo
-                </div>
-                <div className="text-[12px] font-bold uppercase tracking-[0.1em] text-white/70 mb-2">
+                <div className="text-[13px] font-bold uppercase tracking-[0.1em] text-white/80 mb-3">
                   Paket Tes STIFIN Brain Anak
                 </div>
-                <div className="flex items-end gap-2">
-                  <span className="font-display text-[42px] font-bold text-yellow-300 leading-none">
-                    Rp550.000
-                  </span>
-                  <span className="text-[14px] text-white/70 mb-1">/ anak</span>
-                </div>
+                <p className="text-[15px] text-white/90 leading-relaxed">
+                  Dapatkan info harga & promo terkini langsung dari admin kami.
+                </p>
               </div>
 
               <div className="px-8 py-6">
@@ -75,10 +69,10 @@ export default function Pricing() {
                 </ul>
                 <div className="mt-7">
                   <WaButton
-                    href={waLink("Halo, saya ingin daftar Promo Tes STIFIN Brain Anak Rp550.000")}
+                    href={waLink("Halo, saya ingin tanya info harga paket Tes STIFIN Brain Anak")}
                     className="w-full justify-center"
                   >
-                    Daftarkan Anak Sekarang
+                    Tanya Harga ke Admin
                   </WaButton>
                 </div>
               </div>
@@ -86,8 +80,7 @@ export default function Pricing() {
             </div>
 
             <p className="mt-4 text-center text-[12px] text-slate-dim">
-              *Harga promo dapat berubah sewaktu-waktu. Lebih dari satu anak? Hubungi admin untuk
-              info diskon keluarga.
+              *Info harga & promo terkini, hubungi admin langsung via WhatsApp.
             </p>
           </div>
 
