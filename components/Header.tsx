@@ -8,8 +8,8 @@ export default function Header() {
       <div className="mx-auto flex max-w-6xl items-center justify-between px-6 py-3.5">
         <div className="flex items-center gap-3">
           <Image
-            src="/logo.jpg"
-            alt="Logo STIFIN Brain Semar Ojo Puteg"
+            src="/logo-baru.jpg"
+            alt="Logo STIFIN Brain Talenta Pemalang"
             width={44}
             height={44}
             className="h-11 w-11 rounded-full border-2 border-cyan object-cover"
@@ -19,7 +19,7 @@ export default function Header() {
               STIFIN BRAIN
             </div>
             <div className="font-body text-[10px] font-semibold uppercase tracking-widest text-slate-mid">
-              Semar Ojo Puteg
+              Talenta Pemalang
             </div>
           </div>
         </div>

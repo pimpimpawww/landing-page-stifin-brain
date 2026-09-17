@@ -46,7 +46,7 @@ export default function Hero() {
               Kenali Potensi Anak
             </span>
             <span className="block text-[0.55em] text-white/90 font-medium italic mt-1">
-              sesuai dengan kecerdasan yang dimilikinya
+              Kenali Talenta Anak Anda, Dukung Potensi Terbaiknya
             </span>
           </h1>
 

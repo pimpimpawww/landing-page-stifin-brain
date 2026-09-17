@@ -7,8 +7,8 @@ export default function Footer() {
       <div className="mx-auto mb-4 flex max-w-6xl flex-col items-center justify-center gap-3">
         <div className="flex items-center gap-3">
           <Image
-            src="/logo.jpg"
-            alt="Logo STIFIN Brain Semar Ojo Puteg"
+            src="/logo-baru.jpg"
+            alt="Logo STIFIN Brain Talenta Pemalang"
             width={40}
             height={40}
             className="h-10 w-10 rounded-full border-2 border-cyan object-cover"
@@ -16,7 +16,7 @@ export default function Footer() {
           <div className="text-left">
             <div className="font-display text-[16px] font-bold text-cyan-dark">STIFIN BRAIN</div>
             <div className="text-[10px] font-semibold uppercase tracking-widest text-slate-mid">
-              Semar Ojo Puteg
+              Talenta Pemalang
             </div>
           </div>
         </div>
@@ -25,7 +25,7 @@ export default function Footer() {
           WhatsApp Pendaftaran: <span className="text-cyan font-semibold">{WA_DISPLAY}</span>
         </p>
         <p className="text-[12px] text-slate-dim">
-          © 2026 STIFIN Brain – Semar Ojo Puteg. Ojo puteg, kenali potensi anak sesuai dengan kecerdasan yang dimilikinya.
+          © 2026 STIFIN Brain – Talenta Pemalang. Ojo puteg, kenali potensi anak sesuai dengan kecerdasan yang dimilikinya.
         </p>
       </div>
     </footer>

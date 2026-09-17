@@ -25,7 +25,7 @@ export default function VideoSection() {
           <div className="relative w-full" style={{ paddingBottom: "56.25%" }}>
             <iframe
               src="https://www.youtube.com/embed/2o1SIAowFGI?rel=0&modestbranding=1&color=white"
-              title="Video Promosi STIFIN Brain - Semar Ojo Puteg"
+              title="Video Promosi STIFIN Brain - Talenta Pemalang"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
               allowFullScreen
               className="absolute inset-0 h-full w-full"
