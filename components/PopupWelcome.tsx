@@ -36,7 +36,7 @@ export default function PopupWelcome() {
             </span>
           </div>
           <h3 className="font-display text-[22px] font-bold text-slate-light leading-snug">
-            Temukan potensi asli anakmu lewat tes STIFIN Brain
+            Kenali Talenta Unik Anak Anda dan Dukung Perkembangan Serta Potensi Terbaiknya
           </h3>
           <p className="mt-3 text-[14px] text-slate-mid leading-relaxed">
             Cukup satu kali tes fingerprint, kamu bisa tahu cara belajar, minat, dan arah terbaik
