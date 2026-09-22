@@ -25,7 +25,7 @@ export default function Footer() {
           WhatsApp Pendaftaran: <span className="text-cyan font-semibold">{WA_DISPLAY}</span>
         </p>
         <p className="text-[12px] text-slate-dim">
-          © 2026 STIFIN Brain – Talenta Pemalang. Ojo puteg, kenali potensi anak sesuai dengan kecerdasan yang dimilikinya.
+          © 2026 STIFIN Brain – Talenta Pemalang. Kenali Talenta Unik Anak Anda dan Dukung Perkembangan Serta Potensi Terbaiknya.
         </p>
       </div>
     </footer>
